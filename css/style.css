@@ -116,12 +116,6 @@ body {
 }
 
 
-@media  (max-width: 800px) {
-  .hero { 
-    display: flex;
-  }
-  
-}
 
 .hero-container {
   position: relative;
