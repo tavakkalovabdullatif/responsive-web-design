@@ -292,3 +292,26 @@ body {
 .footer-link:hover {
   color: #ff7500;
 }
+
+
+
+/* RESPONSIVE */
+
+@media (max-width: 890px) {
+  .header-links {
+    display: none
+  }
+
+  .burger-button {
+    display: none;
+  }
+  
+  
+}
+
+@media (max-width: 490px) {
+  .hero-button {
+    display: none;
+  }
+  
+}
